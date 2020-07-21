@@ -48,15 +48,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-07-21 09:28:19</sys_created_on>
-        <sys_id>660571071bca10102f444196bc4bcb5a</sys_id>
+        <sys_id>8f1c790b1bca10102f444196bc4bcb29</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_468997_my_custom_my_custom_app_table</sys_name>
         <sys_package display_value="My Custom App" source="x_468997_my_custom">1ca4b5c31bca10102f444196bc4bcb58</sys_package>
         <sys_policy/>
         <sys_scope display_value="My Custom App">1ca4b5c31bca10102f444196bc4bcb58</sys_scope>
-        <sys_update_name>sys_dictionary_x_468997_my_custom_my_custom_app_table_null</sys_update_name>
+        <sys_update_name>sys_dictionary_x_468997_my_custom_my_custom_app_table_NULL</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-07-21 09:28:19</sys_updated_on>
+        <sys_updated_on>2020-07-21 09:59:13</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

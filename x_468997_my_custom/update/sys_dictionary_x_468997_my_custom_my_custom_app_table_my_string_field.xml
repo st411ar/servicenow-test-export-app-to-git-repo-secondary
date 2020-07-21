@@ -6,10 +6,10 @@
         <attributes>edge_encryption_enabled=true</attributes>
         <audit>false</audit>
         <calculation/>
-        <choice>0</choice>
+        <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>My string field</column_label>
+        <column_label>My string field 001</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -48,15 +48,15 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2020-07-21 09:28:19</sys_created_on>
-        <sys_id>220571071bca10102f444196bc4bcb79</sys_id>
-        <sys_mod_count>0</sys_mod_count>
-        <sys_name>My string field</sys_name>
+        <sys_id>831c790b1bca10102f444196bc4bcb2f</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>My string field 001</sys_name>
         <sys_package display_value="My Custom App" source="x_468997_my_custom">1ca4b5c31bca10102f444196bc4bcb58</sys_package>
         <sys_policy/>
         <sys_scope display_value="My Custom App">1ca4b5c31bca10102f444196bc4bcb58</sys_scope>
         <sys_update_name>sys_dictionary_x_468997_my_custom_my_custom_app_table_my_string_field</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2020-07-21 09:28:19</sys_updated_on>
+        <sys_updated_on>2020-07-21 10:10:02</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
